@@ -17,6 +17,6 @@ Sample website with plenty of files for demos
 dep
 
 ## How to contribute
-please fork this repo then issue pull req
+please fork this repo then issue pull 
 
 ## Copyright
