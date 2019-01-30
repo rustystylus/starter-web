@@ -10,13 +10,13 @@ This is an example to show how git works
 
 purpose
 
-Sample website with plenty of files for demos
+Sample website with  for demos
 
 ## Deployment
 
 dep
 
 ## How to contribute
-please fork this repo then issue pull 
+please fork  then issue pull 
 
 ## Copyright
