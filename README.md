@@ -20,4 +20,4 @@ dep
 please fork  then issue pull 
 
 ## Copyright Notice
-2019 Git Training
+2019 Git  notice
