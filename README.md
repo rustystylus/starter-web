@@ -17,7 +17,7 @@ Sample website with  for demos
 dep
 
 ## How to contribute
-please fork  then issue pull 
+please fork this repository then issue pull 
 
 ## Copyright Notice
 2019 Git  notice test
