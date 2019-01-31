@@ -21,4 +21,4 @@ dep
 please fork this repository then issue pull 
 
 ## Copyright Notice
-2019 Git  company 2019
+2019 Git  Training 2019
