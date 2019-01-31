@@ -19,4 +19,5 @@ dep
 ## How to contribute
 please fork  then issue pull 
 
-## Copyright
+## Copyright Notice
+2019 Git Training
